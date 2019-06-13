@@ -40,5 +40,5 @@ All repositories on your GitHub account would be gradually deleted.
 Pull requests are welcome. For any further questions, feel free to reach out to me at me@agamjolly.com. Thank you! 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/) license can be found in the LICENSE.md file. 
+[MIT](https://choosealicense.com/licenses/mit/) license can be found in the LICENSE file. 
 <br><br><br>**Created by [Agam Jolly](https://www.agamjolly.com)**
