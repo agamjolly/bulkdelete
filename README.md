@@ -29,19 +29,19 @@ Change the directory to where the cloned repository is saved using
 ```bash
 cd <path to file>
 ```
-Make the file executable by running the following command 
+Make the `delete.sh` file executable by running the following command 
 ```bash
-chmod +x script.sh
+chmod +x delete.sh
 ```
 Use the following command to execute the script
 ```bash
-./script.sh
+./delete.sh
 ```
 All repositories on your GitHub account would be gradually deleted. 
 
 ## Contributing and Questions
-Pull requests are welcome. I shall be working to automate the script so that it can ask users to input their access tokens and automatically edit the script and execute it. For any further questions, feel free to reach out to me at me@agamjolly.com. Thank you! 
+Pull requests are welcome. For any further questions, feel free to reach out to me at me@agamjolly.com. Thank you! 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/) license can be found in the license.md file. 
-<br><br>**Created by [Agam Jolly](https://www.agamjolly.com)**
+[MIT](https://choosealicense.com/licenses/mit/) license can be found in the LICENSE.md file. 
+<br><br><br>**Created by [Agam Jolly](https://www.agamjolly.com)**
