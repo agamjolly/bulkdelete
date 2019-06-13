@@ -1,4 +1,3 @@
-
 # Bulk Delete Repositories
 
 Bulk delete multiple old repositories and forks from your GitHub with a simple bash script and a valid personal access token with `delete_repo` scope. 
@@ -23,8 +22,6 @@ Clone this repository using
 ```bash
 git clone https://github.com/agamjolly/BulkRepoDelete.git
 ```
-Replace '`$TOKEN`' with your generated personal access token in the .sh file using your favourite text editor.
-
 Change the directory to where the cloned repository is saved using 
 ```bash
 cd <path to file>
