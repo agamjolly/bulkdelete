@@ -44,4 +44,4 @@ Pull requests are welcome. I shall be working to automate the script so that it 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/) license can be found in the license.md file. 
-<br>**Created by [Agam Jolly](https://www.agamjolly.com)**
+<br><br>**Created by [Agam Jolly](https://www.agamjolly.com)**
