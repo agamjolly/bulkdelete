@@ -1,4 +1,4 @@
-# Bulk Delete Repositories
+# 🗑️Bulk Delete Repositories
 
 Bulk delete multiple old repositories and forks from your GitHub with a simple bash script and a valid personal access token with `delete_repo` scope. 
 
